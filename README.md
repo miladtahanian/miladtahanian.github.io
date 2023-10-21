@@ -1,13 +1,6 @@
 **Portfolio**
 Live Preview - [Click Here](https://miladtahanian.github.io/)
 
-<br/>
-<div align="center">
-  <img alt="Demo" src="public/mockup.png" />
-</div>
-<br/>
-<br/>
-
 # 🛠 Installation and Setup Instructions
 
 1. Fork and clone this repository. You will need NodeJs and Git installed on your machine..
